@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eaef9076-79e1-4bb2-9376-4321b6022162/deploy-status)](https://app.netlify.com/sites/netlify-nextjs-sample2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/edc2ad3a-2050-4bcd-9f22-42e18691a402/deploy-status)](https://app.netlify.com/sites/nextjs-netlify-sample/deploys)
 First, run the development server:
 
 ```bash
