@@ -24,7 +24,7 @@ const NewNote = () => {
 
     const createNote = async () => {
         try {
-            const res = await fetch('BASE_URL/api/notes', {
+            const res = await fetch('https://nextjs-netlify-sample.netlify.app/api/notes', {
                 method: 'POST',
                 headers: {
                     "Accept": "application/json",
