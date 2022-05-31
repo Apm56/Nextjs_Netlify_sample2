@@ -99,7 +99,7 @@ const EditNote = ({ note }) => {
 }
 
 EditNote.getInitialProps = async ({ query: { id } }) => {
-    const res = await fetch(`http://localhost:3000/api/notes/${id}`);
+    const res = await fetch(`https://nextjs-netlify-sample.netlify.app/api/notes/${id}`);
     const { data } = await res.json();
 
     return { note: data }
